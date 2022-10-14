@@ -37,3 +37,11 @@ font-weight: bolder;
 
 }
 
+canvas
+{
+
+background-color:blanchedalmond;
+border-radius: 50px;
+box-shadow: 5px 5px 5px black;
+
+}
